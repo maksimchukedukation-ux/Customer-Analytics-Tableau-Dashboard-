@@ -40,5 +40,34 @@ The dashboard focuses on the following key metrics:
 - **Retention Rate** — shows how customer activity changes over time.
 - **Sales by Product Category** — helps identify the strongest revenue-driving categories.
 - **Customer Demographics** — provides insights into gender and age distribution.
+  
+
+## Additional Visualizations
+
+### Sales Distribution by Product Category
+
+![Sales Distribution by Product Category - Total Sales](category_sales_total.png)
+
+![Sales Distribution by Product Category - Quantity Sold](category_sales_quantity.png)
+
+These treemaps compare product categories by **total sales value** and **quantity sold**.
+
+The analysis shows that **Mobiles & Tablets** is the leading category both by total sales and quantity sold, making it the main revenue and volume driver.
+
+This comparison helps distinguish between categories that generate high revenue and categories that sell in high volume.
 
 
+## Tools Used
+
+- Tableau
+- Google Sheets
+- Data visualization
+- Dashboard design
+- Customer analytics
+
+
+## Data Source
+
+The project is based on an e-commerce customer dataset containing information about customers, orders, product categories, sales, and customer activity over time.
+
+The data was prepared in Google Sheets and visualized in Tableau.
