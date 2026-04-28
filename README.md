@@ -23,3 +23,22 @@ This dashboard is designed to answer the following business questions:
 5. What are the key customer-level metrics, such as average order value and customer tenure?
 
 
+## Dashboard Preview
+
+![Customer 360 Dashboard Preview](dashboard_preview.png)
+
+The dashboard provides a high-level Customer 360° overview, including customer tenure, total customers, average order value, demographics, age distribution, geographic distribution, retention curve, and cohort retention table.
+
+
+## Key Metrics
+
+The dashboard focuses on the following key metrics:
+
+- **Average Customer Tenure** — shows how long customers stay active.
+- **Total Customers** — represents the total number of unique customers in the dataset.
+- **Average Order Value** — measures the average revenue generated per order.
+- **Retention Rate** — shows how customer activity changes over time.
+- **Sales by Product Category** — helps identify the strongest revenue-driving categories.
+- **Customer Demographics** — provides insights into gender and age distribution.
+
+
